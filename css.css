@@ -1,0 +1,535 @@
+.image {
+    height: 580px;
+    width: 100%;
+    position: absolute;
+    object-fit: cover;
+    left: 0%;
+    top: 0%;
+}
+
+.nav {
+    position: absolute;
+    left: 50px;
+
+}
+
+.main {
+    position: absolute;
+    right: 240px;
+
+}
+
+.l1 {
+    text-decoration: none;
+    color: white;
+    font-family: serif;
+    font-size: x-large;
+}
+
+ul {
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}
+
+.logo {
+    position: absolute;
+    height: 60px;
+    width: 290px;
+    top: 230px;
+    left: 550px;
+    object-fit: fill;
+
+}
+
+.fine {
+    position: absolute;
+    color: white;
+    top: 300px;
+    left: 475px;
+    font-family: serif;
+    margin-top: 20px;
+    font-weight: 300;
+}
+
+.bars {
+    position: absolute;
+    color: white;
+    font-family: serif;
+    top: 350px;
+    left: 600px;
+    font-weight: 300;
+}
+
+.popular {
+    position: absolute;
+    top: 600px;
+    font-family: serif;
+    left: 510px;
+    font-weight: 300;
+}
+
+.indian {
+    position: absolute;
+    height: 30px;
+    top: 627px;
+    left: 770px;
+}
+
+.india {
+    position: absolute;
+    top: 600px;
+    font-family: serif;
+    left: 820px;
+    font-weight: 400;
+}
+
+.bottom {
+    position: absolute;
+    width: 1050PX;
+    top: 680px;
+    text-align: center;
+    left: 150px;
+    font-family:serif;
+    font-weight: 20;
+    color: rgb(84, 79, 79);
+
+}
+
+.res1 {
+    color: black;
+    text-decoration: none;
+    font-family:serif;
+    font-weight: 200;
+
+}
+
+.ress {
+    background-color: white;
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 850px;
+    margin-left: 120px;
+    border-width: 0.1px;
+}
+
+.ress2 {
+    background-color: white;
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 850px;
+    margin-left: 500px;
+    border-width: 0.1px;
+}
+.ress3{
+    background-color: white;
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 850px;
+    margin-left: 880px;
+    border-width: 0.1px;
+}
+.ress4{
+    background-color: white;
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 935px;
+    margin-left: 120px;
+    border-width: 0.1px;
+}
+.ress5{
+    background-color: white;
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 935px;
+    margin-left: 500px;
+    border-width: 0.1px;
+}
+.ress6{
+    background-color: white;
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 935px;
+    margin-left: 880px;
+    border-width: 0.1px;
+}
+.ress7{
+    background-color: white;
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1020px;
+    margin-left: 120px;
+    border-width: 0.1px;
+}
+.ress8{
+    background-color: white;
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1020px;
+    margin-left: 500px;
+    border-width: 0.1px;
+}
+.ress9{
+    background-color: white;
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1020px;
+    margin-left: 880px;
+    border-width: 0.1px;
+}
+.ress10{
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1105px;
+    margin-left: 120px;
+    border-width: 0.1px;
+}
+.ress11{
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1105px;
+    margin-left: 500px;
+    border-width: 0.1px;
+}
+.ress12{
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1105px;
+    margin-left: 880px;
+    border-width: 0.1px;
+}
+.ress13{
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1190px;
+    margin-left: 120px;
+    border-width: 0.1px;
+}
+.ress14{
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1190px;
+    margin-left: 500px;
+    border-width: 0.1px;
+}
+.ress15{
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1190px;
+    margin-left: 880px;
+    border-width: 0.1px;
+}
+.ress16{
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1275px;
+    margin-left: 120px;
+    border-width: 0.1px;
+}
+.ress17{
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1275px;
+    margin-left: 500px;
+    border-width: 0.1px;
+}
+.ress18{
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1275px;
+    margin-left: 880px;
+    border-width: 0.1px;
+}
+.all{
+    position: absolute;
+    font-family:serif;
+    font-size: 4.5ch;
+    font-weight: 200;
+    top: 1250px;
+    left: 120px;
+}
+.contry{
+    color: black;
+    font-size: xx-large;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 200 
+    
+}
+.con1{
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1450px;
+    margin-left: 120px;
+    border-width: 0.1px;
+}
+.india2{
+    position: absolute;
+    top: 7px;
+    left: 70px;
+    
+}
+.con2{
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1450px;
+    margin-left: 500px;
+    border-width: 0.1px; 
+}
+.australia{
+    position: absolute;
+    top: 7px;
+    left: 40px;
+}
+.con3{
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1450px;
+    margin-left: 880px;
+    border-width: 0.1px;
+}
+.brazil{
+    position: absolute;
+    top: 7px;
+    left: 65px;
+} 
+.con4{
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1535px;
+    margin-left: 120px;
+    border-width: 0.1px; 
+}
+.canada{
+    position: absolute;
+    top: 7px;
+    left: 65px; 
+}
+.con5{
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1535px;
+    margin-left: 500px;
+    border-width: 0.1px; 
+}
+.chile{
+    position: absolute;
+    top: 7px;
+    left: 65px; 
+}
+.con6{
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1535px;
+    margin-left: 880px;
+    border-width: 0.1px; 
+}
+
+.czech{
+    position: absolute;
+    top: 7px;
+    left: 60px;  
+}
+.con7{
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1615px;
+    margin-left: 120px;
+    border-width: 0.1px;  
+}
+.indonasia{
+    position: absolute;
+    top: 7px;
+    left: 36px;  
+
+}
+
+.con8{
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1615px;
+    margin-left: 500px;
+    border-width: 0.1px;  
+}
+.malaysia{
+    position: absolute;
+    top: 7px;
+    left: 36px;  
+
+}
+.con9{
+    position: absolute;
+    border-style: solid;
+    height: 60px;
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+    border-color: rgb(222, 208, 208);
+    margin-top: 1615px;
+    margin-left: 880px;
+    border-width: 0.1px;  
+}
+.italy{
+    position: absolute;
+    top: 7px;
+    left: 60px;  
+
+}
+.bottom2{
+    position: absolute;
+    background-color: rgb(228, 228, 222);
+    height: 500px;
+    width: 100%;
+    margin-top: 1700px;
+}
+.bottomlogo{
+    top: 50px;
+    left: 120px;
+    position: absolute;
+}
+.footer{
+    position: relative;
+    top: 1800px;
+    left:80px;
+    display: flex;
+}
+.footer1{
+    position: absolute;
+    display: flow-root;
+    
+}
+.foo{
+    text-decoration: none;
+    color: black;
+}
+
